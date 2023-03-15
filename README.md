@@ -28,7 +28,6 @@ You can view a live demo of the project at [Kanban Board](https://hazemhussein14
 - ✅ Responsive design for all screen sizes
 
 
-## Issues and Solutions
 
 - The `createTask` function generates a random ID for each task, which can cause issues when trying to remove or edit tasks that have been saved to the Local Storage API. To solve this issue, modify the `createTask` function to accept the ID stored in the Local Storage API as a parameter.
 - Use higher order functions like `filter` and `find` to update the arrays in the Local Storage API when dragging tasks to new positions or performing other operations.
