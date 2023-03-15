@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/113997542/225227157-d9f4d5ab-28b6-41ca
 
 ## Demo
 
-You can view a live demo of the project at [Kanban Board](https://hazemhussein14.github.io/Kalbonian-phase-2-project/).
+You can view a live demo of the project at [Kanban Board](https://a-basuony.github.io/Kalbonyan-Board-/).
 
 ## Technologies Used
 
